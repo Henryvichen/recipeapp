@@ -1,5 +1,4 @@
-import React, {useState} from "react";
-import RecipeData from "./RecipeData.js"
+import React from "react";
 import RecipeView from './RecipeView';
 
 function RecipeList({recipes, deleteRecipe}) {
